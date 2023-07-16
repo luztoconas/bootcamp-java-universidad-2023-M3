@@ -1,0 +1,26 @@
+.contenedor{
+    font-family: Mulish;
+}
+form{
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+}
+
+h1{
+    font-weight: 700;
+    color: #04146c;
+}
+.campo{
+    width: 500px;
+    height: 50px;
+    font-weight: 400;
+}
+button{
+    color: white;
+    border: solid 1px;
+    border-color: #414166;
+    background-color: #15163d;
+    width: 500px;
+    height: 50px;
+}

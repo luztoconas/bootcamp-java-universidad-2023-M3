@@ -12,6 +12,7 @@ h1{
     font-weight: 900;
     font-size: 37px;
     color: #04146c;
+    margin-bottom: 40px;
 }
 .subtitulos{
     font-weight: 700;
@@ -22,10 +23,12 @@ h1{
     font-weight: 400;
     font-size: 19px;
     color: #04146c;
-    
+    padding-left: 70px;
+   
 }
 img{
+    float: left;
     width: 55px;
     margin-right: 15px;
-    
+     vertical-align: middle;
 }
